@@ -1,0 +1,11 @@
+# Error: dividing by zero
+2 / 0
+
+# Error: dividing by zero
+2 % 0 
+
+# Error: negative exponent
+2 ^ -8
+
+# Error: syntax error (missing bracket)
+(2 + 3
